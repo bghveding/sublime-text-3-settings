@@ -1,13 +1,9 @@
 {
     "php_cs_fixer_executable_path": "/home/bjornar/bin/php-cs-fixer",
     "phpcs_command_on_save": false,
-    "phpcs_execute_on_save": false,
+    "phpcs_execute_on_save": true,
     "phpcs_show_errors_on_save": false,
     // Do you want to run the phpcs checker?
-    "phpcs_sniffer_run": false,
-    "phpcs_show_quick_panel": false,
-
-    // Execute the sniffer on file save
-    "phpcs_command_on_save": false,
-    "phpcs_sniffer_run": false
+    "phpcs_sniffer_run": true,
+    "phpcs_show_quick_panel": false
 }
