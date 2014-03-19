@@ -19,6 +19,7 @@ Most of these can be installed via [Package Control](https://sublime.wbond.net/i
 * git
 * Monokai extended
 * Case conversion
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript)
