@@ -16,8 +16,11 @@ Packages I use
 Most of these can be installed via [Package Control](https://sublime.wbond.net/installation).
 
 * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
+* git
+* Monokai extended
+* Case conversion
 * [GitGutter](https://github.com/jisaacks/GitGutter)
-* [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Checkout st3 branch
+* [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * LESS
