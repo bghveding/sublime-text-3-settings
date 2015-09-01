@@ -15,7 +15,7 @@ Packages I use
 
 Most of these can be installed via [Package Control](https://sublime.wbond.net/installation).
 
-* [Soda Theme](https://github.com/buymeasoda/soda-theme/)
+* [Afterglow Theme](https://github.com/YabataDesign/afterglow-theme)
 * git
 * Monokai extended
 * Case conversion
