@@ -17,8 +17,9 @@ Most of these can be installed via [Package Control](https://sublime.wbond.net/i
 
 * [Afterglow Theme](https://github.com/YabataDesign/afterglow-theme)
 * git
-* Monokai extended
 * Case conversion
+* [SublimeLinter3](http://www.sublimelinter.com/en/latest/)
+* [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint) (ES6+ and React syntax check)
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
